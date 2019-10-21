@@ -1,0 +1,14 @@
+5
+Jacob enters
+Annie enters
+Jacob exits
+Carlos enters
+Mia enters
+Sam enters
+Sarah enters
+John enters
+Sarah exits
+Annie exits
+Mia exits
+Sam exits
+John exits

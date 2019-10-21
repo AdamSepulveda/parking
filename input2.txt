@@ -1,0 +1,8 @@
+2
+James enters
+Nina enters
+Kate exits
+Ray enters
+James exits
+Ray exits
+Kelsey exits
